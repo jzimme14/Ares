@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STM32F405RGT6'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT", "TJ", "MTBF", "POWER", "SLOPE", "SUBTYPE", "PACKAGE", "RJA", "VCC_MAX", "VCC_MIN", "IOUT_MAX", "IOUT_MIN", "ICC", "IGND", "RCA", "RJC", "ICCQ", "TECHNOLOGY";
+{========================================================================================}
+ "STMicroelectronics", "STM32F405RGT6" (!) = "", "QFP50P1200X1200X160-64N", "Quad Flat Packages", "511-STM32F405RGT6", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32F405RGT6?qs=Z8%252BeY1k3TIKgj7QWsYGpQw%3D%3D", "MCU 32-Bit, ARM Cortex M4, 1MB Flash STMicroelectronics STM32F405RGT6, 32bit ARM Cortex M4F Microcontroller, 168MHz, 1024 kB Flash, 64-Pin LQFP", "http://www.st.com/web/en/resource/technical/document/datasheet/DM00037051.pdf", "1.6 mm", "125", "", "435m", "", "MCU SMD", "LQFP-64", "46", "4", "-0.3", "25m", "25m", "240m", "", "", "", "", "CMOS_TTL"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=Olimex Ltd.
+PartNumber=MICRO-SD-CARD
+PartCategory=Connector
+PackageCategory=Other
+PinCount=13
+Version=2.11
+Released=2023-03-06 06:57:15
+Downloaded=2024-05-14 10:35:57
+3D=Y
