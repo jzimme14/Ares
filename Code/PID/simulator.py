@@ -14,7 +14,7 @@ x_vals = np.linspace(0, plotting_values, plotting_values)
 
 setpoint: float = 20.0
 output_var: int = 0  # -10 - 10
-max_disturbance_val: float = 1.0
+max_disturbance_val: float = 0.3
 
 # PID
 pid = PID(KP=0.5, KI=0.1, KD=0.3, setpoint=setpoint,
