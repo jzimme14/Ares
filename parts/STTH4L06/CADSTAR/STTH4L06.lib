@@ -1,0 +1,16 @@
+.STTH4L06 :1 ;600 V, 4 A Low Drop Ultrafast Diode
+DIOAD3070W130L950D530
+*STM IC
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN STTH4L06
+~!Mouser Part Number (511-STTH4L06)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STTH4L06?qs=WSSg0AwdCh5xkbKry%252Bciwg%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (STTH4L06)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/stth4l06.pdf)
+~!Height (-)
+~!3D_Model (STTH4L06)
+STTH4L06
+1.1!U 2.1!U 

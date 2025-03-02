@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INA240A3EDRQ1
+D AEC-Q100, 80V, Low-/High-Side, Bi-Directional, Zero-Drift, CSA w/Enhanced PWM Rejection
+K
+F http://www.ti.com/lit/gpn/INA240-Q1
+$ENDCMP
+#
+#End Doc Library

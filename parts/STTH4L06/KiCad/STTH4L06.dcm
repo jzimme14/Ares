@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STTH4L06
+D 600 V, 4 A Low Drop Ultrafast Diode
+K
+F https://www.st.com/resource/en/datasheet/stth4l06.pdf
+$ENDCMP
+#
+#End Doc Library

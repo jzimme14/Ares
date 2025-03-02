@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "1N4728A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-03-23-21:25:27)
+    (mountForm default
+        (footprintRef "DIOAD1413W86L463D238")
+        (spec "System")
+    )
+)

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'M20_7821642'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Harwin", "M20-7821642" (!) = "", "RHDR16W70P0X254_1X16_4104X250X865P", "Header, Receptacle - Straight PTH Box", "855-M20-7821642", "https://www.mouser.co.uk/ProductDetail/Harwin/M20-7821642?qs=ulE8k0yEMYYHOwsI6S7TGA%3D%3D", "2.54mm (0.1") Pitch SIL Vertical Throughboard Socket Assembly, selective gold + tin, 16 contacts", "https://cdn.harwin.com/pdfs/M20-782.pdf", "8.65 mm"
+END_PART
+
+END.

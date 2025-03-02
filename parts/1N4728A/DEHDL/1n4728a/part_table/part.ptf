@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '1N4728A'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "onsemi", "1N4728A" (!) = "", "DIOAD1413W86L463D238", "Diodes, Axial Diameter Horizontal Mounting", "512-1N4728A", "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/1N4728A?qs=SSucg2PyLi7orktZ3y7vHw%3D%3D", "Zener Diodes 3.3V 1W ZENER 5%", "https://www.onsemi.com/pdf/datasheet/1n4736at-d.pdf"
+END_PART
+
+END.

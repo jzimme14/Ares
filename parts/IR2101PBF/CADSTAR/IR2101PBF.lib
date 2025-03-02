@@ -1,0 +1,16 @@
+.IR2101PBF :1 ;Gate Drivers HI LO SIDE DRVR 600V 130mA 50ns
+DIP762W56P254L988H533Q8N
+*STM IC
+*NGS
+*PLB 1="VCC" 2="'HIN'" 3="'LIN'" 4="COM" 5="LO" 6="VS" 7="HO" 8="VB"
+*MXP 8
+*DFN IR2101PBF
+~!Mouser Part Number (942-IR2101PBF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IR2101PBF?qs=dQmlx5f5cRISttR4zG0olw%3D%3D)
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (IR2101PBF)
+~!Link Datasheet (https://www.infineon.com/cms/en/product/power/gate-driver-ics/?)
+~!Height (5.33mm)
+~!3D_Model (IR2101PBF)
+IR2101PBF
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=IR2101PBF
+PartCategory=Integrated Circuit
+PackageCategory=Dual-In-Line Packages
+PinCount=8
+Version=7.2
+Released=2021-02-04 12:17:02
+Downloaded=2024-09-16 14:01:10
+3D=Y

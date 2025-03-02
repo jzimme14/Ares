@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N4728A
+D Zener Diodes 3.3V 1W ZENER 5%
+K
+F https://www.onsemi.com/pdf/datasheet/1n4736at-d.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IR2101PBF
+D Gate Drivers HI LO SIDE DRVR 600V 130mA 50ns
+K
+F https://www.infineon.com/cms/en/product/power/gate-driver-ics/?
+$ENDCMP
+#
+#End Doc Library

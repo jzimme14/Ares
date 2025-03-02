@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STTH4L06'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "STMicroelectronics", "STTH4L06" (!) = "", "DIOAD3070W130L950D530", "Diodes, Axial Diameter Horizontal Mounting", "511-STTH4L06", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STTH4L06?qs=WSSg0AwdCh5xkbKry%252Bciwg%3D%3D", "600 V, 4 A Low Drop Ultrafast Diode", "https://www.st.com/resource/en/datasheet/stth4l06.pdf"
+END_PART
+
+END.

@@ -1,0 +1,15 @@
+Für Ares_v1.1:
+
+-Löcher für PowerKlemmen sehr viel größer und größere Pads dafür    done
+
+-Widerstände für LEDs von 0603 auf 0805 machen                      done
+
+-LIPO Batteriezellenmessanschluss hintzufügen (JST-Connector)	    (Rot = Alle 3 Zellen, ganz andere Seite = Ground)
+
+-JST und XT60 Connectors auf die Unterseite			    done
+
+-Strommessung einbauen (Shunt Widerstand + Chip)		    zu teuer (Chip: INA169NA/250 + Shunt Widerstand)
+
+
+
+Beim Löten aufpassen: JST und XT60 von untern nehmen

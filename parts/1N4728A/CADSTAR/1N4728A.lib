@@ -1,0 +1,16 @@
+.1N4728A :1 ;Zener Diodes 3.3V 1W ZENER 5%
+DIOAD1413W86L463D238
+*STM Z
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN 1N4728A
+~!Mouser Part Number (512-1N4728A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/1N4728A?qs=SSucg2PyLi7orktZ3y7vHw%3D%3D)
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (1N4728A)
+~!Link Datasheet (https://www.onsemi.com/pdf/datasheet/1n4736at-d.pdf)
+~!Height (-)
+~!3D_Model (1N4728A)
+"1N4728A"
+1.1!U 2.1!U 

@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model INA240A3EDRQ1
+#/1707152/1373120/2.50/8/3/Integrated Circuit
+DEF INA240A3EDRQ1 IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "INA240A3EDRQ1" 950 200 50 H V L CNN
+F2 "SOIC127P600X175-8N" 950 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/INA240-Q1" 950 0 50 H I L CNN
+F4 "AEC-Q100, 80V, Low-/High-Side, Bi-Directional, Zero-Drift, CSA w/Enhanced PWM Rejection" 950 -100 50 H I L CNN "Description"
+F5 "1.75" 950 -200 50 H I L CNN "Height"
+F6 "595-INA240A3EDRQ1" 950 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/INA240A3EDRQ1?qs=yBt6ao%2FxsTxM2fxxT9CMIw%3D%3D" 950 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "INA240A3EDRQ1" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X IN- 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X REF2 3 0 -200 200 R 50 50 0 0 P
+X NC 4 0 -300 200 R 50 50 0 0 N
+X IN+ 8 1100 0 200 L 50 50 0 0 P
+X REF1 7 1100 -100 200 L 50 50 0 0 P
+X VS 6 1100 -200 200 L 50 50 0 0 P
+X OUT 5 1100 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

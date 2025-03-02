@@ -1,0 +1,16 @@
+.INA240A3EDRQ1 :1 ;AEC-Q100, 80V, Low-/High-Side, Bi-Directional, Zero-Drift, CSA w/Enhanced PWM Rejection
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="IN-" 2="GND" 3="REF2" 4="NC" 5="OUT" 6="VS" 7="REF1" 8="IN+"
+*MXP 8
+*DFN INA240A3EDRQ1
+~!Mouser Part Number (595-INA240A3EDRQ1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/INA240A3EDRQ1?qs=yBt6ao%2FxsTxM2fxxT9CMIw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (INA240A3EDRQ1)
+~!Link Datasheet (http://www.ti.com/lit/gpn/INA240-Q1)
+~!Height (1.75mm)
+~!3D_Model (INA240A3EDRQ1)
+INA240A3EDRQ1
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

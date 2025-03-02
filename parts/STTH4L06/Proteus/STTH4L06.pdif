@@ -1,0 +1,145 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "STTH4L06"
+   (description "600 V, 4 A Low Drop Ultrafast Diode")
+   (family "ANA")
+   (package "DIOAD3070W130L950D530")
+   (attribute "Datasheet Link" "https://www.st.com/resource/en/datasheet/stth4l06.pdf")
+   (attribute "Mouser Part Number" "511-STTH4L06")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STTH4L06?qs=WSSg0AwdCh5xkbKry%252Bciwg%3D%3D")
+   (attribute "Manufacturer_Name" "STMicroelectronics")
+   (attribute "Manufacturer_Part_Number" "STTH4L06")
+   (gate
+    (symbol "STTH4L06")
+    (pin "K" 1 PS)
+    (pin "A" 2 PS)
+   )
+  )
+  (symbol "STTH4L06"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "DIOAD3070W130L950D530"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.375 3)
+      (pt 32.075 3)
+      (pt 32.075 -3)
+      (pt -1.375 -3)
+      (pt -1.375 3))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 10.6 2.65)
+      (pt 20.1 2.65)
+      (pt 20.1 -2.65)
+      (pt 10.6 -2.65)
+      (pt 10.6 2.65))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 10.6 0)
+      (pt 13.25 2.65))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 0 0)
+      (pt 10.6 0))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 20.1 0)
+      (pt 30.7 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 10.6 2.65)
+      (pt 20.1 2.65)
+      (pt 20.1 -2.65)
+      (pt 10.6 -2.65)
+      (pt 10.6 2.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 10.6 0)
+      (pt 13.25 2.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 1.475 0)
+      (pt 10.6 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 20.1 0)
+      (pt 29.225 0))))
+   (leg 1 (pt 0 0) (padstack 1))
+   (leg 2 (pt 30.7 0) (padstack 0))
+   (padstack 0
+    (hole 1.5)
+    (plated true)
+    (pad (layer TCOP) (round 2.25))
+    (pad (layer INNER) (round 2.25))
+    (pad (layer BCOP) (round 2.25))
+   )
+   (padstack 1
+    (hole 1.5)
+    (plated true)
+    (pad (layer TCOP) (square 2.25))
+    (pad (layer INNER) (round 2.25))
+    (pad (layer BCOP) (square 2.25))
+   )
+   (model "STTH4L06.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

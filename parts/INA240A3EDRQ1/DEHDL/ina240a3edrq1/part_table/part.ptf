@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'INA240A3EDRQ1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "INA240A3EDRQ1" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "595-INA240A3EDRQ1", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/INA240A3EDRQ1?qs=yBt6ao%2FxsTxM2fxxT9CMIw%3D%3D", "AEC-Q100, 80V, Low-/High-Side, Bi-Directional, Zero-Drift, CSA w/Enhanced PWM Rejection", "http://www.ti.com/lit/gpn/INA240-Q1", "1.75 mm"
+END_PART
+
+END.

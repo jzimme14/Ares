@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=1N4728A
+PartCategory=Zener Diode
+PackageCategory=Diodes, Axial Diameter Horizontal Mounting
+PinCount=2
+Version=1.1
+Released=2021-10-20 14:53:17
+Downloaded=2024-10-23 20:08:18
+3D=Y

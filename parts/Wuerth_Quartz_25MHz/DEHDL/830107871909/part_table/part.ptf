@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '830107871909'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "830107871909" (!) = "", "830107871909", "Other", "710-830107871909", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/830107871909?qs=hWgE7mdIu5SqecU%2FcqYdCA%3D%3D", "Crystals WE-XTAL 25.0MHz 10ppm 2.5 x 2.0mm", "https://www.we-online.com/catalog/datasheet/830107871909.pdf", "0.6 mm"
+END_PART
+
+END.

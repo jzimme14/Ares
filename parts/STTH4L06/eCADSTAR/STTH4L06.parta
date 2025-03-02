@@ -1,0 +1,65 @@
+(Japanese_coding: sjis)
+(function "ECS_1822234"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-10-03-14:00:38)
+    (utime 2024-10-05-06:01:31)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "STTH4L06")
+)
+
+
+(pinAssign "ECS_1822234"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-10-03-14:00:38)
+    (utime 2024-10-05-06:01:31)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1822234")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "STTH4L06")
+)
+
+
+(part "STTH4L06"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-10-03-14:00:38)
+    (utime 2024-10-05-06:01:31)
+    (packageRef "STTH4L06")
+    (pinAssignRef "ECS_1822234")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "IC")
+    (property "description" "600 V, 4 A Low Drop Ultrafast Diode")
+    (property "Mouser_Part_Number" "511-STTH4L06")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STTH4L06?qs=WSSg0AwdCh5xkbKry%252Bciwg%3D%3D")
+    (property "Manufacturer_Name" "STMicroelectronics")
+    (property "Manufacturer_Part_Number" "STTH4L06")
+    (property "Datasheet_Link" "https://www.st.com/resource/en/datasheet/stth4l06.pdf")
+)
+
+

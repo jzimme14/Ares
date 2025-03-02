@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IR2101PBF'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "IR2101PBF" (!) = "", "DIP762W56P254L988H533Q8N", "Dual-In-Line Packages", "942-IR2101PBF", "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IR2101PBF?qs=dQmlx5f5cRISttR4zG0olw%3D%3D", "Gate Drivers HI LO SIDE DRVR 600V 130mA 50ns", "https://www.infineon.com/cms/en/product/power/gate-driver-ics/?", "5.33 mm"
+END_PART
+
+END.
